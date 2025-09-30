@@ -1,4 +1,4 @@
-Катрич Пётр
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/c7dfc2e0-6910-4ff1-857b-07c5a7f68433" />Катрич Пётр
 ИТ-11.24.5
 KatrichPN24@spb.ithub.ru
 ## Git Pull
@@ -77,4 +77,4 @@ KatrichPN24@spb.ithub.ru
 
 Используйте этот токен вместо пароля при выполнении команд в терминале.
 
-![Схема получения токена](https://docs.github.com/assets/cb-79133/images/help/settings/personal_access_tokens_traditional.png)
+![Схема получения токена](C:\Users\p.katrich\Pictures\github228\1)
