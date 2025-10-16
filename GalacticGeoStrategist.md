@@ -49,8 +49,8 @@
 |-----------|------------|
 | ОС | Windows 11 |
 | Процессор | Intel Core i5-8500 / AMD Ryzen 5 2600 |
-| Память | 16 GB RAM |
-| Видеокарта | NVIDIA GTX 1060 6 GB VRAM  / AMD R7 260x |
+| Память | 8 GB RAM |
+| Видеокарта | NVIDIA GTX 1060 6 GB VRAM  / AMD Radeon RX 580 |
 | Место на диске | 50 GB |
 
 ### Рекомендуемые требования
@@ -60,7 +60,7 @@
 | Процессор | Intel i5-10400 / AMD Ryzen 5 3600 |
 | Память | 16 GB RAM |
 | Видеокарта | NVIDIA RTX 3060 Ti 12 GB VRAM / AMD Radeon RX 6700 XT |
-| Место на диске | 70 GB (Ultra HD графика) |
+| Место на диске | 70 GB (Ultra HD Textures) |
 
 ### Целевые платформы
 - PC (Windows)
