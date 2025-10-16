@@ -60,7 +60,7 @@
 | Процессор | Intel i5-10400 / AMD Ryzen 5 3600 |
 | Память | 16 GB RAM |
 | Видеокарта | NVIDIA RTX 3060 Ti 12 GB VRAM / AMD Radeon RX 6700 XT |
-| Место на диске | 70 GB (Ultra HD Textures) |
+| Место на диске | 80 GB SSD (Ultra HD Textures) |
 
 ### Целевые платформы
 - PC (Windows)
