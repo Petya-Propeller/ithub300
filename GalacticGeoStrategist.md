@@ -163,14 +163,9 @@
 
 ## Архитектура системы зума
 
-### 3. **Блоки кода для демонстрации алгоритмов**
-```python
-# Пример: zoom_system.py
-class ZoomSystem:
-    def update_interface(self, zoom_level):
-        if zoom_level <= 5:
-            self.show_tactical_commands()
-        elif zoom_level <= 20:
-            self.show_operational_commands()
-        else:
-            self.show_strategic_commands()
+```mermaid
+graph LR
+    A[Стратегический] --> B[Оперативный]
+    B --> C[Тактический]
+    C --> B
+    B --> A
