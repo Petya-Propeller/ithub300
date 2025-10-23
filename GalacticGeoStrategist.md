@@ -171,7 +171,9 @@ graph LR
     B --> A
 ```
 ## Игровой цикл
+
 ```mermaid
+sequenceDiagram
     participant И as Игрок
     participant К as Камера
     participant С as Система зума
